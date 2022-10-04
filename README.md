@@ -9,3 +9,24 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
+### Tools
+|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://user-images.githubusercontent.com/15971898/90470852-2b2fb900-e0e2-11ea-968b-b11d1cd9aeb5.png" width=60>|  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> |
+|:---:|:---:|:---:|:---:|:---:|
+
+
+### Web
+|<img src="https://user-images.githubusercontent.com/15971898/90471041-b27d2c80-e0e2-11ea-94d1-d12b97bc9bfa.png" width=80> | <img src="https://user-images.githubusercontent.com/15971898/90471046-b5781d00-e0e2-11ea-9795-0e736a23ac82.png" width=80>| 
+:---:|:---:|
+
+
+
+
+<br/>
+<br/>
+
+### Lenguajes de programación (Repositorios)
+<img width="500px" alt="Captura de Pantalla 2021-04-21 a la(s) 18 05 07" src="https://user-images.githubusercontent.com/15971898/115631973-6e26d980-a2cc-11eb-8d75-461f717546cd.png">
+<br/>
+<br/>
+<a href="http://isradeleon.com/github-portfolio.html?user=fhernandezpalafox">Ver portafolio Github</a>
+
